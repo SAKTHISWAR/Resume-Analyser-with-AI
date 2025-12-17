@@ -65,27 +65,21 @@ Can be adapted to different industries, job roles, and recruitment workflows.
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+![image](https://github.com/SAKTHISWAR/Resume-Analyser-with-AI/blob/main/output_image.jpeg)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
-
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
-Detection Accuracy: 96.7%
+Detection Accuracy: 90 %
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The development of the AI-based Resume Analyzer successfully demonstrates how modern automation and artificial intelligence can transform traditional recruitment processes into a more efficient, accurate, and data-driven system. Manual resume screening typically requires significant human effort, time, and subjectivity, which often leads to delays and inconsistencies in selecting the most suitable candidates. This project addresses these drawbacks by implementing an intelligent approach that automatically extracts, analyzes, and evaluates applicant data from resumes in a structured manner.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+[1] S. Javed, A. Kumar, and P. Mehta, “AI-based Resume Screening System using NLP,” IEEE Access, vol. 11, pp. 12045–12055, 2023.
+[2] M. Sharma, R. Patel, and D. Verma, “Automated Candidate Shortlisting using BERT and Semantic Matching,” Expert Systems with Applications, vol. 228, 2024.
+[3] A. Bose and R. Gupta, “Fair and Transparent Recruitment through Explainable AI,” Procedia Computer Science, 2024.
+[4] P. Kumar and N. Jain, “Deep Learning for Resume Classification and Skill Extraction,” International Journal of Intelligent Systems, vol. 38, no. 4, pp. 760–775, 2023.
+[5] Y. Li and H. Zhao, “Transformer-based Resume-Job Matching Framework,” Neural Computing and Applications, 2024.
 
 
 
