@@ -61,7 +61,7 @@ Can be adapted to different industries, job roles, and recruitment workflows.
 
 ## System Architecture
 
-![](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![image]([https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995](https://github.com/SAKTHISWAR/Resume-Analyser-with-AI/blob/main/Arch.png))
 
 
 ## Output
