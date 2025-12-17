@@ -7,46 +7,32 @@ Manual resume screening is labor-intensive and can lead to inconsistent results,
 ## Features
 #### Automated Resume Parsing
 Extracts structured information such as name, contact details, education, skills, experience, and certifications from unstructured resume formats (PDF, DOC, DOCX).
-
 #### Skill Extraction and Matching
 Identifies technical and soft skills from resumes and matches them against job descriptions using NLP techniques.
-
 #### AI-Based Resume Scoring
 Assigns a relevance score to each resume based on skill match, experience level, education, and keywords.
-
 #### Job Description Analysis
 Analyzes job requirements to identify mandatory and preferred skills for accurate candidate matching.
-
 #### Keyword & Semantic Matching
 Uses NLP models (TF-IDF / Word Embeddings / BERT) to capture contextual meaning rather than relying only on exact keyword matches.
-
 #### Candidate Ranking System
 Automatically ranks candidates in descending order based on suitability for the given role.
-
 #### Multi-Format Resume Support
 Supports resumes in multiple formats such as PDF, Word documents, and plain text files.
-
 #### Bias Reduction & Fair Screening
 Minimizes human bias by focusing on skills, experience, and qualifications instead of personal identifiers.
-
 #### Bulk Resume Processing
 Processes hundreds or thousands of resumes simultaneously, saving recruiter time.
-
 #### Search & Filter Functionality
 Enables recruiters to filter candidates based on skills, experience, education, or score.
-
 #### Analytics & Insights Dashboard
 Provides visual insights such as skill distribution, experience levels, and candidate trends.
-
 #### Candidate Recommendation Engine
 Suggests best-fit candidates for open positions based on AI-driven analysis.
-
 #### Feedback & Resume Improvement Suggestions (Optional)
 Offers candidates insights on missing skills or keywords to improve their resumes.
-
 #### Secure Data Handling
 Ensures confidentiality and secure storage of applicant data.
-
 #### Scalable & Customizable Architecture
 Can be adapted to different industries, job roles, and recruitment workflows.
 
@@ -68,6 +54,7 @@ Can be adapted to different industries, job roles, and recruitment workflows.
 ![image](https://github.com/SAKTHISWAR/Resume-Analyser-with-AI/blob/main/output_image.jpeg)
 
 Detection Accuracy: 90 %
+
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
@@ -76,9 +63,13 @@ The development of the AI-based Resume Analyzer successfully demonstrates how mo
 
 ## Articles published / References
 [1] S. Javed, A. Kumar, and P. Mehta, “AI-based Resume Screening System using NLP,” IEEE Access, vol. 11, pp. 12045–12055, 2023.
+
 [2] M. Sharma, R. Patel, and D. Verma, “Automated Candidate Shortlisting using BERT and Semantic Matching,” Expert Systems with Applications, vol. 228, 2024.
+
 [3] A. Bose and R. Gupta, “Fair and Transparent Recruitment through Explainable AI,” Procedia Computer Science, 2024.
+
 [4] P. Kumar and N. Jain, “Deep Learning for Resume Classification and Skill Extraction,” International Journal of Intelligent Systems, vol. 38, no. 4, pp. 760–775, 2023.
+
 [5] Y. Li and H. Zhao, “Transformer-based Resume-Job Matching Framework,” Neural Computing and Applications, 2024.
 
 
